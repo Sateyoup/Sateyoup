@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sateyoup
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on -
+- 👀 I’m interested in coding and tech 
+- 🌱 I’m currently learning python and java
 - 📫 How to reach -
  discord - Sateyoup#2059
 
