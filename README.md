@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Sateyoup
-- 👀 I’m interested in tech 
-- 🌱 I’m currently developing syrinxOS
-- 📫 How to reach -
- 
+- 👀 I’m interested in tech and applied physics 
+
 
